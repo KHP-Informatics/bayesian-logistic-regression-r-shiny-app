@@ -123,7 +123,7 @@ shinyUI(fluidPage(
   
   
   ## Define title of whole app.
-  titlePanel("Bayesian Logistic Regession Analysis"),
+  titlePanel("Bayesian Logistic Regression Analysis"),
   
   sidebarLayout(
     sidebarPanel(

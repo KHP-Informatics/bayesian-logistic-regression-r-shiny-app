@@ -135,7 +135,7 @@ shinyServer(function(input, output, session) {
   
   ## Define introduction text to appear at the top of every tab.
   output$intro =renderUI({
-    str1 <- 'Create bayesian logistic regession models with and without prior information.'
+    str1 <- 'Create bayesian logistic regression models with and without prior information.'
     str2 <- '(Some calculations may take a few minutes to run.)'
     HTML(paste('<em>','<center>',str1, '<br>', str2))
   })
