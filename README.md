@@ -11,13 +11,15 @@ This repository contains a GUI written in Rshiny to perform Bayesian Logistic re
 5. In R, run runApp('bayes-app') to launch the application
 
 ## Dependencies
-The following R packages are needed: 
+
+Install the following
 
 - `R` 
 - `RStudio`
 - `shiny`
 
-Required `R` pacakges: - 
+`R` pacakges:- 
+
 ```
 library(arm)
 library(MCMCpack)
