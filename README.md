@@ -13,11 +13,14 @@ Author: Nicola Voyle <nicola.voyle@kcl.ac.uk>
 5. In R, run runApp('bayes-app') to launch the application
 
 ```bash
+# clone repo and name desitnation `bayes-app`
 git clone https://github.com/KHP-Informatics/bayesian-logistic-regression-r-shiny-app.git bayes-app
 cd bayes-app
 
 # launch R
 R
+
+# run the application
 runApp('bayes-app')
 ```
 
