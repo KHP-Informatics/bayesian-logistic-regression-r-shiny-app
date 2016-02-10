@@ -1,6 +1,6 @@
 ## Bayesian Logistic Regression
 
-To run...
+### To run...
 
 1. Open R
 2. Install 'shiny' library
