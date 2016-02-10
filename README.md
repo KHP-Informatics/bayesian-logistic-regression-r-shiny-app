@@ -21,6 +21,7 @@ cd bayes-app
 R
 
 # run the application
+library(shiny)
 runApp('bayes-app')
 ```
 
