@@ -4,7 +4,9 @@ This repository contains a GUI written in Rshiny to perform Bayesian Logistic re
 
 Author: Nicola Voyle <nicola.voyle@kcl.ac.uk>  
 
-### Qucik Start
+Written and tested in R Version 3.2.2 using OS X El Capitan Version 10.11.1
+
+### Quick Start
 
 1. Open R
 2. Install 'shiny' library
