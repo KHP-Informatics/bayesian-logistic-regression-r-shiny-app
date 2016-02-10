@@ -9,6 +9,11 @@ Author: Nicola Voyle <nicola.voyle@kcl.ac.uk>
 1. Open R
 2. Install 'shiny' library
 3. Place the three files from this repo (model.R, ui.R and server.R) in a folder called 'bayes-app'
+
+```bash
+git clone https://github.com/KHP-Informatics/bayesian-logistic-regression-r-shiny-app.git bayes-app
+```
+
 4. Navigate to the parent directory of 'bayes-app'
 5. In R, run runApp('bayes-app') to launch the application
 
