@@ -2,7 +2,7 @@
 
 This repository contains a GUI written in Rshiny to perform Bayesian Logistic regression analysis in R. The interface is based on the MCMClogit function from the MCMCpack package.
 
-### To run...
+### Qucik Start
 
 1. Open R
 2. Install 'shiny' library
@@ -10,14 +10,14 @@ This repository contains a GUI written in Rshiny to perform Bayesian Logistic re
 4. Navigate to the parent directory of 'bayes-app'
 5. In R, run runApp('bayes-app') to launch the application
 
-## R Dependencies
+## Dependencies
 The following R packages are needed: 
 
 - `R` 
 - `RStudio`
-- `Rshiny`
+- `shiny`
 
-Required pacakges: - 
+Required `R` pacakges: - 
 ```
 library(arm)
 library(MCMCpack)
