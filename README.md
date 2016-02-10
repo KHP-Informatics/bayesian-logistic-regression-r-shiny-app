@@ -1,4 +1,4 @@
-Bayesian Logistic Regression
+## Bayesian Logistic Regression
 
 To run...
 
@@ -8,7 +8,7 @@ To run...
 4. Navigate to the parent directory of 'bayes-app'
 5. In R, run runApp('bayes-app') to launch the application
 
-Questions? nicola.voyle@kcl.ac.uk
+**Questions?** nicola.voyle@kcl.ac.uk
 
 Please note, this application was not created in conjunction with the developers of MCMCpack.
 Their package and documentation are fully acknowledged:
