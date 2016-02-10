@@ -1,5 +1,7 @@
 ## Bayesian Logistic Regression
 
+This repository contains a GUI written in Rshiny to perform Bayesian Logistic regression analysis in R. The interface is based on the MCMClogit function from the MCMCpack package.
+
 ### To run...
 
 1. Open R
@@ -10,6 +12,12 @@
 
 ## R Dependencies
 The following R packages are needed: 
+
+- `R` 
+- `RStudio`
+- `Rshiny`
+
+Required pacakges: - 
 ```
 library(arm)
 library(MCMCpack)
